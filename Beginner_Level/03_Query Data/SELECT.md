@@ -11,4 +11,4 @@ SELECT retrieves data from one or more tables.
 - DISTINCT – removes duplicate rows
 - TOP / LIMIT – restricts number of rows returned
 - ORDER BY – sorts results (ASC / DESC)
-- AS – renames a column in the output (alias)
+- AS – renames a column in the output (alias) 
