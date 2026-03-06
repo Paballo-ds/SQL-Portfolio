@@ -12,3 +12,14 @@ SELECT retrieves data from one or more tables.
 - TOP / LIMIT – restricts number of rows returned
 - ORDER BY – sorts results (ASC / DESC)
 - AS – renames a column in the output (alias) 
+
+## order of use
+SELECT 
+DISTINCT
+TOP
+FROM 
+WHERE
+GROUP BY
+HAVING
+ORDER BY, ASC/DESC
+
